@@ -1,0 +1,215 @@
+﻿*, html{
+	margin: 0px;
+	padding: 0px;
+}
+
+
+.form1 {
+    margin-left: -10px;
+    margin-top: -10px;
+    background-image:  url("../Img/header.png");
+    background-repeat: no-repeat;
+    width:1260px;
+    height:650px;
+    top: -10px;
+    position:fixed;
+    z-index:1000;
+
+}
+.back {
+    height:700px;
+    width:1280px;
+    margin-top:-10px;
+    background-image:  url("../Img/IMG_7519.JPG");
+    background-size: cover;
+    background-repeat: no-repeat;
+    position:fixed;
+    z-index: -1;
+}
+.parallax-window {
+    min-height: 400px;
+    background: transparent;
+}
+
+
+article{
+	padding: 100px;
+}
+.geekhome{
+	background: url(images/geek.png) no-repeat;
+	display: block;
+	height: 368px;
+	margin: 0px auto;
+	width: 517px;
+        z-index:1000;
+}
+
+
+
+
+.btn {
+    z-index:1;
+}
+.buttonIn {
+    margin-top:220px;
+    margin-left:-10px;
+    width: 170px;
+    min-width:80px;
+    height: 85px;
+    min-height: 40px;
+    background-color: #562523;
+    border-color: #562523; 
+    transform: skew(10deg);
+    font-family:'SketchFlow Print';
+    font-size:30px;
+    color: white;
+    position:fixed;
+    z-index:1000;
+    font-weight: 900;
+}
+.buttonMe {
+    margin-top:292px;
+    margin-left:-10px;
+    width: 170px;
+    height: 85px;
+    background-color: #562523;
+    border-color: #562523; 
+    transform: skew(10deg);
+    font-family:'SketchFlow Print';
+    font-size:30px;
+    color: white;
+    position:fixed;
+    z-index:1000;
+    font-weight: 900;
+
+}
+.buttonHi {
+    margin-top:364px;
+    margin-left:-10px;
+    width: 170px;
+    height: 85px;
+    background-color: #562523;
+    border-color: #562523; 
+    transform: skew(10deg);
+    font-family:'SketchFlow Print';
+    font-size:30px;
+    color: white;
+    position:fixed;
+        z-index:1000;
+    font-weight: 900;
+}
+.buttonCo {
+    margin-top:436px;
+    margin-left:-10px;
+    width: 170px;
+    height: 85px;
+    background-color: #562523;
+    border-color: #562523; 
+    transform: skew(10deg);
+    font-family:'SketchFlow Print';
+    font-size:30px;
+    color: white;
+    position:fixed;
+    z-index:1000;
+    font-weight: 900;
+}
+.buttonActive {
+    color:green;
+}
+.btn {
+    font-family:'SketchFlow Print';
+    width: auto;
+    height: auto;
+    border-radius: 7px;
+    text-align:center;
+    margin-bottom:10px; 
+    margin-top:20px; 
+    font-weight:900;
+}
+.divPromo {
+    width:100%;
+    height:750px; 
+    margin-top:0px;
+}
+.divBanner {
+    width:100%;
+    height:200px; 
+    margin-top:0px; 
+}
+.divTope {
+    float:left;  
+    width:20%; 
+    height:100%;  
+    background:none;
+}
+.divContenido {
+    float:right;  
+    width:80%;  
+    background:none;
+}
+.bntBlanco {
+    background-color:white;
+    color:green;
+}
+.bntVerde {
+    background-color:green;
+    color:white;
+}
+.bntNaranja {
+    background-color:orange;
+    color:white;
+}
+.btnCentrado {
+text-align:center;
+    
+}
+.btnIzquierda {
+    float:left;
+    margin-left:20px;
+}
+.btnDerecha {
+    float:right;
+    margin-right:20px;
+}
+.txt {
+    font-weight: 900;
+}
+.txtCentrado {
+    text-align:center;
+}
+.txtDerecha{
+    text-align:right;
+    margin-right:30px;
+}
+.txtIzquierda {
+    text-align:left;
+    margin-left:30px;
+}
+.txtArriba {
+    margin-top:100px;
+}
+.txtAbajo{
+    margin-top:400px;
+}
+.txtEnmedio {
+    margin-top:250px;
+}
+.txtBlanco {
+    color:white;
+}
+.txtNegro {
+    color:black;
+}
+.txtVerde {
+    color:green;
+}
+.txtNaranja {
+    color:orange;
+}
+.txtRojo{
+    color:Red;
+}
+
+
+
+
